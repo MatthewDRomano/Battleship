@@ -14,7 +14,7 @@ Coded in VsCode w/ Java
 ## Features
 - [x] Galaxy Themed Gui
 - [x] Draggable ships
-- [x] Legal ship setup detection
+- [x] Legal/Illegal ship setup detection
 - [x] Horizontal and vertical ship rotation (right click)
 - [x] Start game button
 - [x] Switch view button that swaps the ship board and torpedo board

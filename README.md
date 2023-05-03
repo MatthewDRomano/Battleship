@@ -30,5 +30,7 @@ Coded in VsCode w/ Java
 
 ## Worked alongside
 [Alex Hanna](https://github.com/alexphanna) [(Alex's Battleship)](https://github.com/alexphanna/Open-Battleship)
+
 [Edward Akselrud](https://github.com/Efaks)
+
 [Brayden Hanna](https://github.com/braydenphanna) [(Brayden's Battleship)](https://github.com/braydenphanna/Battleship)

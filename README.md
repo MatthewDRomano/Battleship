@@ -27,3 +27,8 @@ Coded in VsCode w/ Java
 - [ ] Fully functional chat with user input
 - [ ] Full 4 way ship rotation
 - [ ] An option to replay without restarting program
+
+## Worked alongside
+[Alex Hanna](https://github.com/alexphanna) [(Alex's Battleship)](https://github.com/alexphanna/Open-Battleship)
+[Edward Akselrud](https://github.com/Efaks)
+[Brayden Hanna](https://github.com/braydenphanna) [(Brayden's Battleship)](https://github.com/braydenphanna/Battleship)
